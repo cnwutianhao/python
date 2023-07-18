@@ -35,3 +35,6 @@
 
 4. 效果图
    ![吴同学的音乐盒](https://github.com/cnwutianhao/python/assets/13990136/14ce4356-9c6a-4cdf-9bdd-e5a335119bea)
+
+5. 下载体验
+   > https://github.com/cnwutianhao/python/releases
